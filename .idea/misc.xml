@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Kotlin/Android Kotlin/BottomSheet/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Kotlin/Android Kotlin/BottomSheet/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Kotlin/Android Kotlin/BottomSheet/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.22" />
       </map>
     </option>
   </component>
